@@ -1,0 +1,9 @@
+/ExchangeCurrency/*
+/ExchangeCurrency.Core/obj
+/ExchangeCurrency.Core/bin
+/ExchangeCurrency.UnitTest/*
+/.vs/ExchangeCurrency/v15/*.suo
+/.vs/ExchangeCurrency/v15/Server/sqlite3/*.lock
+/.vs/ExchangeCurrency/v15/Server/sqlite3/*.ide
+/.vs/ExchangeCurrency/v15/Server/sqlite3/*.ide-shm
+/.vs/ExchangeCurrency/v15/Server/sqlite3/*.ide-wal
